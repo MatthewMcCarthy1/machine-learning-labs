@@ -17,3 +17,5 @@ ml_lab/
 *.csv
 *.zip
 *.pkl
+
+*.png
