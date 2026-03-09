@@ -19,3 +19,5 @@ ml_lab/
 *.pkl
 
 *.png
+
+*.data
