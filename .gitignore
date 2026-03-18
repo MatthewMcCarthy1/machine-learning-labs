@@ -21,3 +21,5 @@ ml_lab/
 *.png
 
 *.data
+
+*.tsv
